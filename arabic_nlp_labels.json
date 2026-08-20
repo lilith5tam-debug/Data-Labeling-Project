@@ -1,0 +1,18 @@
+[
+  {
+    "text_id": 1,
+    "raw_text": "يا جماعة، أنا طلبت تذكرة لرحلة دبي من مكتب الطيران في الرياض بتاريخ 15 مايو، وللحين ما وصلني التأكيد! هل هذا يعقل؟ الدعم الفني نايم في العسل.",
+    "annotations": {
+      "tone_analysis": "Highly Frustrated / Sarcastic (غاضب ساخر)",
+      "named_entity_recognition": [
+        {"entity": "دبي", "type": "Location / GPE (مكان)"},
+        {"entity": "الرياض", "type": "Location / GPE (مكان)"},
+        {"entity": "15 مايو", "type": "Date (تاريخ)"},
+        {"entity": "مكتب الطيران", "type": "Organization (منظمة)"}
+      ],
+      "slang_and_idioms": [
+        {"phrase": "نايم في العسل", "meaning": "Unresponsive / Oblivious (غير مستجيب / غائب عن الوعي بالمسؤولية)"}
+      ]
+    }
+  }
+]
