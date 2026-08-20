@@ -1,0 +1,40 @@
+[
+  {
+    "audio_file_id": "audio_001_fusha.wav",
+    "dialect_category": "Modern Standard Arabic / Classical Poetry (لغة عربية فصحى / شعر كلاسيكي)",
+    "transcription": "أَلا لِلتَّقَى خَيْرُ المَوَاقِفِ مَوْقِفٌ ... وَمَا زَادَ تَقْوَى المَرْءِ إِلا تَقَدُّمَا",
+    "phonetic_features": {
+      "diacritics_verification": "Strict Arabic voweling (تشكيل كامل لعلامات الإعراب والقافية)",
+      "vocal_delivery": "Poetic declamation and correct standard articulation (إلقاء شعري فصيح ومخارج حروف سليمة)"
+    }
+  },
+  {
+    "audio_file_id": "audio_002_aleppo.wav",
+    "dialect_category": "Syrian Arabic / Aleppine Dialect (لهجة عربية سورية حلبية)",
+    "transcription": "اشبك خاي صلي عالنبي عبقلك هاد المشروع ماو كويس طاول",
+    "conversational_intent": "De-escalation, Advisory & Risk Warning (امتصاص غضب، توعية، وتحذير من المخاطر)",
+    "semantic_depth": "The speaker attempts to calm an angry individual while conveying that the project is completely unviable and carries high risks.",
+    "phonetic_features": {
+      "distinct_vocabulary": [
+        {"phrase": "اشبك خاي", "meaning": "What is wrong with you, my brother? (ما بك يا أخي)"},
+        {"phrase": "عبقلك", "meaning": "I am telling you (أنا أقول لك)"},
+        {"phrase": "ماو كويس طاول", "meaning": "Completely bad and risky / Not good at all (غير جيد وفيه مخاطرة / ليس جيداً أبداً)"}
+      ]
+    }
+  },
+  {
+    "audio_file_id": "audio_003_damascus.wav",
+    "dialect_category": "Syrian Arabic / Damascene Dialect (لهجة عربية سورية شامية)",
+    "transcription": "إي لائة! ما حزرت بنوب، مو أنا يلي بقبل اسكت عن حقي",
+    "conversational_intent": "High Inflection Emotional Self-Defense / Assertive Refusal (دفاع عن النفس مع انفعال ورفض حازم)",
+    "emotional_tone": "Sarcastic, highly emotional, and defiant due to perceived injustice (نبرة ساخرة، منفعلة، وتحدٍّ بسبب الشعور بالمظلومية)",
+    "semantic_depth": "A defiant response by an aggrieved individual rejecting a compromise or an order to stay quiet. The individual aggressively asserts their right with high sarcasm.",
+    "phonetic_features": {
+      "distinct_vocabulary": [
+        {"phrase": "إي لائة", "meaning": "Yeah, right! / Sarcastic 'No' (تعبير ساخر لرفض العرض أو التهدئة)"},
+        {"phrase": "ما حزرت بنوب", "meaning": "You guessed completely wrong / No way at all (لم تصب أبداً / غير صحيح مطلقاً)"},
+        {"phrase": "مو أنا يلي", "meaning": "I am not the type of person who... (لست أنا من...)"}
+      ]
+    }
+  }
+]
